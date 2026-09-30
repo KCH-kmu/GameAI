@@ -1,0 +1,11 @@
+PASS
+Scene: Assets/Scenes/SampleScene.unity
+Play Mode duration: 5.000 seconds
+Rabbit count: 3
+Rabbit | first hop=2.122s | first angle=-14.837deg | horizontal distance=2.452 | final position=(-0.348, 0.997, 2.428)
+Rabbit (1) | first hop=1.417s | first angle=-8.297deg | horizontal distance=2.985 | final position=(4.161, 0.500, 2.864)
+Rabbit (2) | first hop=1.325s | first angle=-5.878deg | horizontal distance=2.518 | final position=(-5.529, 0.998, 2.462)
+First-hop time spread: 0.797 seconds
+First-hop angle spread: 8.959 degrees
+Boundary check: PASS
+Rigidbody check: PASS
